@@ -53,7 +53,7 @@ cp .env.example .env
 
 ### Download BIRD Dataset
 
-Constraint extraction requires the BIRD development dataset. Download and extract it into the correct location:
+Constraint extraction requires the [BIRD](https://bird-bench.github.io/) development dataset. Download and extract it into the correct location:
 ```bash
 # Download and extract
 curl -L https://bird-bench.oss-cn-beijing.aliyuncs.com/dev.zip -o dev.zip
@@ -64,7 +64,7 @@ unzip dev_20240627/dev_databases.zip
 mv dev_databases constraint_extraction/BIRD_dev
 
 # Clean up
-rm -rf dev.zip dev_20240627/
+rm -rf dev.zip dev_20240627/ __MACOSX/
 ```
 
 ### Set Up Z3
