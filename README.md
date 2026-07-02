@@ -136,6 +136,13 @@ python constraint_extraction/extract_constraints.py
 
 ## Citation
 ```
+@article{klopfenstein2025spotit,
+  title={SpotIt: Evaluating Text-to-SQL Evaluation with Formal Verification},
+  author={Klopfenstein, Rocky and He, Yang and Tremante, Andrew and Wang, Yuepeng and Narodytska, Nina and Wu, Haoze},
+  journal={arXiv preprint arXiv:2510.26840},
+  year={2025}
+}
+
 @misc{tremante2026spotitverificationbasedtexttosqlevaluation,
       title={SpotIt+: Verification-based Text-to-SQL Evaluation with Database Constraints}, 
       author={Andrew Tremante and Yang He and Rocky Klopfenstein and Yuepeng Wang and Nina Narodytska and Haoze Wu},
