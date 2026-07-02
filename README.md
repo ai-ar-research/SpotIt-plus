@@ -143,7 +143,7 @@ python constraint_extraction/extract_constraints.py
   year={2025}
 }
 
-@misc{tremante2026spotitverificationbasedtexttosqlevaluation,
+@misc{tremante2026spotitplus,
       title={SpotIt+: Verification-based Text-to-SQL Evaluation with Database Constraints}, 
       author={Andrew Tremante and Yang He and Rocky Klopfenstein and Yuepeng Wang and Nina Narodytska and Haoze Wu},
       year={2026},
